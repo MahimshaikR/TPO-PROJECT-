@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "settings_singleton_001",
+    "collegeName": "NRIIT ENGINEERING COLLEGE",
+    "collegeLogo": "/assets/images/nriit-logo.png",
+    "favicon": "/favicon.ico",
+    "departmentName": "Training & Placement Cell",
+    "tagline": "A POWERHOUSE OF TECHNOLOGY",
+    "heroTitle": "Your Future\nOur Commitment",
+    "heroSubtitle": "Empowering Students. Enabling Opportunities. Building Successful Careers at NRIIT.",
+    "officerName": "Dr. Rajesh Kumar",
+    "officerDesignation": "Training & Placement Officer",
+    "officerPhoto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=500&q=80",
+    "officerMessage": "We are committed to providing our students with the best career opportunities and industry exposure. Our goal is to bridge the gap between academia and industry, enabling students to become industry-ready professionals.",
+    "primaryContact": "+91 98765 43210",
+    "email": "placements@nriit.edu.in",
+    "phone": "+91 866 2469666",
+    "officeAddress": "NRI Institute of Technology, Pothavarappadu (V), Agiripalli (M), Vijayawada Rural, Eluru District, Andhra Pradesh - 521212",
+    "workingHours": "Monday - Friday: 8:30 AM - 5:30 PM, Saturday: 9:00 AM - 1:30 PM",
+    "googleMapsUrl": "https://maps.google.com/?q=Bengaluru",
+    "socialLinks": {
+      "facebook": "https://facebook.com/nriit",
+      "instagram": "https://instagram.com/nriit",
+      "linkedin": "https://linkedin.com/school/nriit",
+      "youtube": "https://youtube.com/nriit",
+      "twitter": "https://twitter.com/nriit",
+      "collegeWebsite": "https://nriit.edu.in"
+    },
+    "footerText": "© 2026 NRIIT ENGINEERING COLLEGE. Autonomous | NAAC A+ | NBA Accredited. All Rights Reserved.",
+    "maintenanceMode": false,
+    "academicYears": [
+      "2023-24",
+      "2024-25",
+      "2025-26",
+      "2026-27",
+      "2027-28"
+    ],
+    "branches": [
+      "CSE",
+      "ECE",
+      "EEE",
+      "IT",
+      "AIML",
+      "Data Science",
+      "Mechanical",
+      "Civil",
+      "Biotechnology"
+    ],
+    "placementStatuses": [
+      "UNPLACED",
+      "REGISTERED",
+      "PLACED",
+      "OPTED_OUT",
+      "HIGHER_STUDIES"
+    ],
+    "applicationStatuses": [
+      "REGISTERED",
+      "ATTENDED",
+      "SHORTLISTED",
+      "TEST_QUALIFIED",
+      "INTERVIEW",
+      "SELECTED",
+      "REJECTED",
+      "WAITLISTED",
+      "OFFER_RECEIVED",
+      "JOINED"
+    ],
+    "trainingCategories": [
+      "APTITUDE",
+      "TECHNICAL",
+      "SOFT_SKILLS",
+      "INTERVIEW_PREP",
+      "WORKSHOP",
+      "BOOTCAMP"
+    ],
+    "createdAt": "2026-09-30T08:59:25.827Z",
+    "updatedAt": "2026-10-02T12:45:44.005Z"
+  }
+]

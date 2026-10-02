@@ -1,0 +1,298 @@
+[
+  {
+    "_id": "stu_mahi_001",
+    "userId": "user_stu_mahi_001",
+    "rollNumber": "23CS001",
+    "fullName": "Mahi Sharma",
+    "email": "mahi.cse23@nriit.edu.in",
+    "phone": "+91 91234 56780",
+    "branch": "CSE",
+    "batch": "2027",
+    "academicYear": "2026-27",
+    "cgpa": 8.92,
+    "backlogs": 0,
+    "gender": "Female",
+    "dob": "2004-05-14",
+    "address": "H-402, Green Valley Enclave, Bengaluru",
+    "tenthPercentage": 94.5,
+    "twelfthPercentage": 92.8,
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "Python",
+      "AWS",
+      "Data Structures & Algorithms"
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Cloud Practitioner",
+        "issuer": "Amazon Web Services",
+        "issueDate": "2025-11-10",
+        "credentialUrl": "https://aws.amazon.com/verify"
+      },
+      {
+        "name": "Meta Full-Stack Developer Professional Certificate",
+        "issuer": "Meta (Coursera)",
+        "issueDate": "2025-08-20",
+        "credentialUrl": "https://coursera.org"
+      }
+    ],
+    "projects": [
+      {
+        "title": "TPO Connect - Smart Campus Placement Suite",
+        "techStack": "Node.js, Express, MongoDB, Vanilla JavaScript, HTML5/CSS3",
+        "description": "A completely dynamic, end-to-end training and placement management portal with dynamic eligibility engine, report exports, and role-based access control.",
+        "githubUrl": "https://github.com/mahi-sharma/tpo-connect",
+        "liveUrl": "https://tpoconnect.demo.app"
+      },
+      {
+        "title": "Algorithmic Visualizer Studio",
+        "techStack": "React, TypeScript, Canvas API",
+        "description": "Interactive visualization sandbox for graph algorithms (Dijkstra, A*) and tree traversals with audio-visual cues.",
+        "githubUrl": "https://github.com/mahi-sharma/algo-viz",
+        "liveUrl": "https://algo-viz.demo.app"
+      }
+    ],
+    "internships": [
+      {
+        "company": "InnoTech Labs",
+        "role": "Full Stack Engineering Intern",
+        "duration": "3 Months (May 2025 - Jul 2025)",
+        "stipend": "₹30,000 / month",
+        "description": "Engineered REST APIs and microservice adapters in Node.js, reducing endpoint latency by 28%.",
+        "certificateUrl": "https://innotech.io/cert/123"
+      }
+    ],
+    "resumeUrl": "/uploads/resumes/resume-1790944076871-02717e7e7276.docx",
+    "resumeOriginalName": "Dudekula_Gafoor_Production_Trainee_Resume.docx",
+    "resumeUpdatedAt": "2026-10-02T12:27:56.932Z",
+    "linkedinUrl": "https://linkedin.com/in/mahi-sharma",
+    "githubUrl": "https://github.com/mahi-sharma",
+    "portfolioUrl": "https://mahisharma.dev",
+    "placementStatus": "PLACED",
+    "placedCompany": "Google LLC",
+    "placedPackage": 38.5,
+    "offerLetters": [
+      {
+        "company": "Google LLC",
+        "packageLpa": 38.5,
+        "designation": "Associate Software Engineer",
+        "issueDate": "2026-09-20",
+        "fileUrl": "/uploads/documents/offer-google-mahi.pdf"
+      }
+    ],
+    "preferences": {
+      "preferredRoles": [
+        "Software Engineer",
+        "Full Stack Developer",
+        "Cloud Engineer"
+      ],
+      "preferredLocations": [
+        "Bengaluru",
+        "Hyderabad",
+        "Remote"
+      ],
+      "willingToRelocate": true
+    },
+    "createdAt": "2026-09-30T08:59:25.714Z",
+    "updatedAt": "2026-10-02T12:27:56.939Z"
+  },
+  {
+    "_id": "stu_rahul_002",
+    "userId": "user_stu_rahul_002",
+    "rollNumber": "23EC014",
+    "fullName": "Rahul Sen",
+    "email": "rahul.ece23@nriit.edu.in",
+    "phone": "+91 92345 67891",
+    "branch": "ECE",
+    "batch": "2027",
+    "academicYear": "2026-27",
+    "cgpa": 8.15,
+    "backlogs": 0,
+    "gender": "Male",
+    "dob": "2004-08-22",
+    "address": "Flat 12B, Lakeview Apartments, Bengaluru",
+    "tenthPercentage": 89.2,
+    "twelfthPercentage": 88,
+    "skills": [
+      "Embedded C",
+      "C++",
+      "IoT",
+      "Python",
+      "Verilog",
+      "Microcontrollers",
+      "Git"
+    ],
+    "certifications": [
+      {
+        "name": "Embedded Systems & IoT Specialization",
+        "issuer": "UC Irvine",
+        "issueDate": "2025-06-15",
+        "credentialUrl": ""
+      }
+    ],
+    "projects": [
+      {
+        "title": "Smart Edge IoT Health Monitor",
+        "techStack": "ESP32, C++, MQTT, AWS IoT Core",
+        "description": "Low-power wearable vital sign telemetry device transmission over lightweight MQTT protocol.",
+        "githubUrl": "https://github.com/rahul-sen/edge-iot",
+        "liveUrl": ""
+      }
+    ],
+    "internships": [],
+    "resumeUrl": "",
+    "placementStatus": "REGISTERED",
+    "placedCompany": "",
+    "placedPackage": 0,
+    "offerLetters": [],
+    "preferences": {
+      "preferredRoles": [
+        "Hardware Engineer",
+        "Firmware Developer",
+        "IoT Systems Architect"
+      ],
+      "preferredLocations": [
+        "Bengaluru",
+        "Pune"
+      ],
+      "willingToRelocate": true
+    },
+    "createdAt": "2026-09-30T08:59:25.719Z",
+    "updatedAt": "2026-09-30T08:59:25.719Z"
+  },
+  {
+    "_id": "stu_ananya_003",
+    "userId": "user_stu_ananya_003",
+    "rollNumber": "23AI008",
+    "fullName": "Ananya Iyer",
+    "email": "ananya.aiml23@nriit.edu.in",
+    "phone": "+91 93456 78902",
+    "branch": "AIML",
+    "batch": "2027",
+    "academicYear": "2026-27",
+    "cgpa": 9.35,
+    "backlogs": 0,
+    "gender": "Female",
+    "dob": "2004-11-03",
+    "address": "Prithvi Palms, Whitefield, Bengaluru",
+    "tenthPercentage": 96,
+    "twelfthPercentage": 95.4,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "NLP",
+      "Computer Vision",
+      "FastAPI",
+      "Docker",
+      "SQL"
+    ],
+    "certifications": [
+      {
+        "name": "Deep Learning Specialization",
+        "issuer": "DeepLearning.AI",
+        "issueDate": "2025-04-12",
+        "credentialUrl": ""
+      }
+    ],
+    "projects": [
+      {
+        "title": "MedScan AI - Diagnostic Pathology Vision",
+        "techStack": "Python, PyTorch, TorchVision, FastAPI",
+        "description": "Convolutional neural network for high-accuracy cellular anomaly detection with 97.4% test sensitivity.",
+        "githubUrl": "https://github.com/ananya-iyer/medscan-ai",
+        "liveUrl": ""
+      }
+    ],
+    "internships": [
+      {
+        "company": "AI Synergy Corp",
+        "role": "Machine Learning Research Intern",
+        "duration": "6 Months",
+        "stipend": "₹40,000 / month",
+        "description": "Optimized quantized LLM models for edge compute devices.",
+        "certificateUrl": ""
+      }
+    ],
+    "resumeUrl": "/uploads/resumes/resume-ananya.pdf",
+    "resumeOriginalName": "Ananya_Iyer_Resume.pdf",
+    "resumeUpdatedAt": "2026-08-15T00:00:00.000Z",
+    "placementStatus": "PLACED",
+    "placedCompany": "Microsoft Corporation",
+    "placedPackage": 43.5,
+    "offerLetters": [
+      {
+        "company": "Microsoft Corporation",
+        "packageLpa": 43.5,
+        "designation": "Software Engineer - AI Systems",
+        "issueDate": "2026-09-18",
+        "fileUrl": "/uploads/documents/offer-msft-ananya.pdf"
+      }
+    ],
+    "preferences": {
+      "preferredRoles": [
+        "AI Research Engineer",
+        "Data Scientist",
+        "Machine Learning Engineer"
+      ],
+      "preferredLocations": [
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "willingToRelocate": true
+    },
+    "createdAt": "2026-09-30T08:59:25.722Z",
+    "updatedAt": "2026-09-30T08:59:25.722Z"
+  },
+  {
+    "_id": "stu_kunal_004",
+    "userId": "user_stu_kunal_004",
+    "rollNumber": "23ME045",
+    "fullName": "Kunal Patil",
+    "email": "kunal.mech23@nriit.edu.in",
+    "phone": "+91 94567 89013",
+    "branch": "Mechanical",
+    "batch": "2027",
+    "academicYear": "2026-27",
+    "cgpa": 6.8,
+    "backlogs": 1,
+    "gender": "Male",
+    "dob": "2004-03-29",
+    "address": "22, Rosewood Garden, Bengaluru",
+    "tenthPercentage": 81,
+    "twelfthPercentage": 79.5,
+    "skills": [
+      "AutoCAD",
+      "SolidWorks",
+      "ANSYS",
+      "Python Basics",
+      "Manufacturing Processes"
+    ],
+    "certifications": [],
+    "projects": [],
+    "internships": [],
+    "resumeUrl": "",
+    "placementStatus": "UNPLACED",
+    "placedCompany": "",
+    "placedPackage": 0,
+    "offerLetters": [],
+    "preferences": {
+      "preferredRoles": [
+        "Design Engineer",
+        "Production Specialist",
+        "Quality Analyst"
+      ],
+      "preferredLocations": [
+        "Pune",
+        "Chennai"
+      ],
+      "willingToRelocate": true
+    },
+    "createdAt": "2026-09-30T08:59:25.724Z",
+    "updatedAt": "2026-09-30T08:59:25.724Z"
+  }
+]

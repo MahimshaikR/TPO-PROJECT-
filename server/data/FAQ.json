@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "faq_001",
+    "question": "What is the eligibility criterion for participating in campus placement drives?",
+    "answer": "Eligibility criteria are determined dynamically per recruitment drive by the visiting employer. Generally, students must maintain a minimum CGPA (commonly 6.5 - 8.0) and have zero or limited active backlogs in accordance with company policy.",
+    "category": "ELIGIBILITY",
+    "order": 1,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.819Z"
+  },
+  {
+    "_id": "faq_002",
+    "question": "What is the \"One Student, One Offer\" policy at our institution?",
+    "answer": "Once a student secures an official offer, they are placed. They may only apply for higher category \"Dream\" (>= 10 LPA) or \"Super Dream\" (>= 18 LPA) recruitment drives in accordance with official placement guidelines.",
+    "category": "POLICY",
+    "order": 2,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.821Z"
+  },
+  {
+    "_id": "faq_003",
+    "question": "Can I appear for multiple placement drives simultaneously?",
+    "answer": "Yes, you can register and appear for multiple ongoing placement drives until you clear all interview rounds and receive an official offer letter from a company.",
+    "category": "DRIVES",
+    "order": 3,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.822Z"
+  },
+  {
+    "_id": "faq_004",
+    "question": "Are pre-placement training sessions and aptitude bootcamps mandatory?",
+    "answer": "Yes. Attendance in accredited training programs, company-specific bootcamps, and mock interviews is mandatory. A minimum 85% attendance is required to remain eligible for premier recruitment drives.",
+    "category": "TRAINING",
+    "order": 4,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.826Z"
+  },
+  {
+    "_id": "faq_005",
+    "question": "What documents must I carry during campus interview rounds?",
+    "answer": "You should bring 3 copies of your updated resume, college ID card, government-issued photo ID (Aadhar/Passport/PAN), passport size photographs, and original transcripts/marksheets from 10th standard onwards.",
+    "category": "INTERVIEWS",
+    "order": 5,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.827Z"
+  },
+  {
+    "_id": "faq_006",
+    "question": "How does the AI Resume ATS Scoring system calculate my resume score?",
+    "answer": "Our AI analyzer evaluates keyword relevance against target job descriptions, checks action-verb density, penalizes multi-column tables that break parsers, and rates your resume on an industry standard 0-100 scale.",
+    "category": "RESUME",
+    "order": 6,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.828Z"
+  },
+  {
+    "_id": "faq_007",
+    "question": "How do corporate recruiters schedule an on-campus or virtual recruitment drive?",
+    "answer": "Recruiters can register directly through our \"Recruit With Us\" portal or contact the T&P Cell at placements@tpoconnect.edu. Once verified, recruiters can post job requirements, schedule pre-placement talks, and shortlist candidates directly.",
+    "category": "RECRUITERS",
+    "order": 7,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.823Z"
+  },
+  {
+    "_id": "faq_008",
+    "question": "Where can I submit a grievance or placement dispute?",
+    "answer": "Students can file a confidential inquiry or dispute directly through the \"Grievance Cell\" tab in their student portal or on the public website. The Placement Redressal Committee reviews and responds within 48 hours.",
+    "category": "SUPPORT",
+    "order": 8,
+    "isPublished": true,
+    "createdAt": "2026-09-30T08:59:25.829Z"
+  }
+]

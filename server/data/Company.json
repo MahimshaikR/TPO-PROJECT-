@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "comp_tcs",
+    "name": "Tata Consultancy Services",
+    "shortName": "TCS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg",
+    "industry": "IT & Consulting",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 210,
+    "highestPackageOffered": 9.5
+  },
+  {
+    "_id": "comp_infosys",
+    "name": "Infosys",
+    "shortName": "Infosys",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg",
+    "industry": "IT & Services",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 185,
+    "highestPackageOffered": 9.5
+  },
+  {
+    "_id": "comp_wipro",
+    "name": "Wipro",
+    "shortName": "Wipro",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Logo_RGB.svg",
+    "industry": "Technology",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 140,
+    "highestPackageOffered": 7.5
+  },
+  {
+    "_id": "comp_accenture",
+    "name": "Accenture",
+    "shortName": "Accenture",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
+    "industry": "Management & IT Consulting",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 160,
+    "highestPackageOffered": 12.0
+  },
+  {
+    "_id": "comp_capgemini",
+    "name": "Capgemini",
+    "shortName": "Capgemini",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Capgemini_201x_logo.svg",
+    "industry": "IT Services & Innovation",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 115,
+    "highestPackageOffered": 8.0
+  },
+  {
+    "_id": "comp_cognizant",
+    "name": "Cognizant",
+    "shortName": "Cognizant",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Cognizant_logo_2022.svg",
+    "industry": "Digital Transformation",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 130,
+    "highestPackageOffered": 10.0
+  },
+  {
+    "_id": "comp_ibm",
+    "name": "IBM",
+    "shortName": "IBM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+    "industry": "Enterprise & Cloud",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 75,
+    "highestPackageOffered": 14.5
+  },
+  {
+    "_id": "comp_techm",
+    "name": "Tech Mahindra",
+    "shortName": "Tech Mahindra",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Tech_Mahindra_New_Logo.svg",
+    "industry": "Telecommunications & IT",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 90,
+    "highestPackageOffered": 7.0
+  },
+  {
+    "_id": "comp_deloitte",
+    "name": "Deloitte",
+    "shortName": "Deloitte",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg",
+    "industry": "Audit, Advisory & Tech",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 65,
+    "highestPackageOffered": 16.0
+  },
+  {
+    "_id": "comp_hcl",
+    "name": "HCL Tech",
+    "shortName": "HCL",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/HCLTech_Logo.svg",
+    "industry": "Engineering & R&D",
+    "tier": "TIER_1",
+    "status": "ACTIVE",
+    "totalOffersCount": 85,
+    "highestPackageOffered": 8.5
+  }
+]

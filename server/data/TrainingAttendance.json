@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "tr_att_001",
+    "trainingId": "trn_001",
+    "sessionId": "sess_001",
+    "studentId": "stu_mahi_001",
+    "isPresent": true,
+    "markedAt": "2026-10-05T00:00:00.000Z",
+    "createdAt": "2026-09-30T08:59:25.762Z",
+    "updatedAt": "2026-09-30T08:59:25.762Z"
+  },
+  {
+    "_id": "tr_att_002",
+    "trainingId": "trn_001",
+    "sessionId": "sess_001",
+    "studentId": "stu_rahul_002",
+    "isPresent": true,
+    "markedAt": "2026-10-05T00:00:00.000Z",
+    "createdAt": "2026-09-30T08:59:25.764Z",
+    "updatedAt": "2026-09-30T08:59:25.764Z"
+  }
+]

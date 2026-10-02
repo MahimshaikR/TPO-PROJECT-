@@ -1,0 +1,420 @@
+/* ==========================================================================
+   TPO CONNECT — Portal Dashboard Layout & Admin/Student Styles
+   ========================================================================== */
+
+.portal-wrapper {
+  display: flex;
+  min-height: calc(100vh - 4.5rem);
+  background-color: #f1f5f9;
+}
+
+/* Sidebar Navigation */
+.portal-sidebar {
+  width: 260px;
+  background-color: #0f172a;
+  color: #94a3b8;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  border-right: 1px solid #1e293b;
+  position: sticky;
+  top: 4.5rem;
+  height: calc(100vh - 4.5rem);
+  overflow-y: auto;
+  transition: var(--transition);
+}
+
+.portal-sidebar-header {
+  padding: 1.5rem 1.25rem 1rem 1.25rem;
+  border-bottom: 1px solid #1e293b;
+}
+
+.portal-role-badge {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  border-radius: var(--radius-sm);
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.4rem;
+}
+
+.portal-user-name {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.portal-user-email {
+  font-size: 0.78rem;
+  color: #64748b;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 1rem 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 0.65rem 0.95rem;
+  color: #94a3b8;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border-radius: var(--radius-md);
+  transition: var(--transition);
+  text-decoration: none;
+}
+
+.sidebar-link:hover {
+  background-color: #1e293b;
+  color: #ffffff;
+}
+
+.sidebar-link.active {
+  background-color: var(--accent);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+.sidebar-link i {
+  font-size: 1.1rem;
+  width: 20px;
+  text-align: center;
+}
+
+.sidebar-badge {
+  margin-left: auto;
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-full);
+}
+
+.sidebar-footer {
+  margin-top: auto;
+  padding: 1rem 0.75rem;
+  border-top: 1px solid #1e293b;
+}
+
+/* Portal Main Content Area */
+.portal-main {
+  flex: 1;
+  padding: 2rem;
+  min-width: 0;
+  overflow-x: hidden;
+}
+
+.portal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.portal-title {
+  font-size: 1.85rem;
+  font-weight: 800;
+  color: var(--text-main);
+  line-height: 1.2;
+}
+
+.portal-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+}
+
+.portal-header-actions {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+/* Stat Cards in Dashboard */
+.portal-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.portal-stat-card {
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  padding: 1.35rem;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+}
+
+.portal-stat-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--primary);
+}
+
+.portal-stat-card.stat-green::after { background: var(--success); }
+.portal-stat-card.stat-blue::after { background: var(--accent); }
+.portal-stat-card.stat-amber::after { background: var(--warning); }
+.portal-stat-card.stat-purple::after { background: #8b5cf6; }
+
+.stat-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-info-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.25rem;
+}
+
+.stat-info-value {
+  font-size: 1.85rem;
+  font-weight: 800;
+  color: var(--text-main);
+  line-height: 1.1;
+}
+
+.portal-stat-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.35rem;
+}
+
+.stat-green .portal-stat-icon { background: var(--success-bg); color: var(--success); }
+.stat-blue .portal-stat-icon { background: var(--primary-light); color: var(--primary); }
+.stat-amber .portal-stat-icon { background: var(--warning-bg); color: #b45309; }
+.stat-purple .portal-stat-icon { background: #f5f3ff; color: #7c3aed; }
+
+/* Dashboard Widgets & Sections */
+.portal-grid-2 {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.portal-card {
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  padding: 1.5rem;
+}
+
+.portal-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.85rem;
+}
+
+.portal-card-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-main);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Recruitment Funnel Visualizer */
+.funnel-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.funnel-step {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.funnel-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.funnel-bar-bg {
+  width: 100%;
+  height: 10px;
+  background-color: var(--bg-subtle);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+
+.funnel-bar-fill {
+  height: 100%;
+  background: var(--accent-gradient);
+  border-radius: var(--radius-full);
+  transition: width 0.6s ease;
+}
+
+/* Eligibility Result Box */
+.eligibility-box {
+  padding: 1.25rem;
+  border-radius: var(--radius-md);
+  margin-bottom: 1.5rem;
+}
+
+.eligibility-box.eligible {
+  background-color: var(--success-bg);
+  border: 1px solid var(--success-border);
+  color: #065f46;
+}
+
+.eligibility-box.ineligible {
+  background-color: var(--danger-bg);
+  border: 1px solid var(--danger-border);
+  color: #991b1b;
+}
+
+.eligibility-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.eligibility-list {
+  padding-left: 1.25rem;
+  font-size: 0.9rem;
+}
+
+/* Application Status Stepper */
+.status-stepper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  margin: 1.5rem 0;
+}
+
+.status-stepper::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: var(--border-color);
+  z-index: 1;
+  transform: translateY(-50%);
+}
+
+.status-step-node {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.status-dot {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--bg-surface);
+  border: 3px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.status-step-node.active .status-dot {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #ffffff;
+}
+
+.status-step-node.completed .status-dot {
+  border-color: var(--success);
+  background: var(--success);
+  color: #ffffff;
+}
+
+.status-step-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+/* AI Resume Score Card */
+.ai-score-card {
+  background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%);
+  color: #ffffff;
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+}
+
+.ai-score-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.ai-badge {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.ai-score-number {
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1;
+  margin-bottom: 0.25rem;
+  background: linear-gradient(to right, #60a5fa, #34d399);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

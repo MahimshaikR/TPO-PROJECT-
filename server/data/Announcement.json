@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "anc_001",
+    "title": "Placement drive by TCS for 2026 batch - Registrations open",
+    "category": "DRIVE",
+    "content": "Tata Consultancy Services campus recruitment drive registrations are now open for 2026 graduating batch students across CSE, IT, and AIML branches.",
+    "targetAudience": "STUDENTS",
+    "priority": "URGENT",
+    "isNew": true,
+    "isPublished": true,
+    "createdAt": "2024-12-15T09:00:00.000Z"
+  },
+  {
+    "_id": "anc_002",
+    "title": "Aptitude training session on 18th Dec 2024",
+    "category": "TRAINING",
+    "content": "Intensive quantitative and logical aptitude training session conducted by corporate trainers in the main seminar hall.",
+    "targetAudience": "ALL",
+    "priority": "NORMAL",
+    "isPublished": true,
+    "createdAt": "2024-12-12T09:00:00.000Z"
+  },
+  {
+    "_id": "anc_003",
+    "title": "Internship opportunities at Infosys - Apply now",
+    "category": "INTERNSHIP",
+    "content": "Infosys InStep summer internship portal has commenced accepting applications for pre-final year engineering students.",
+    "targetAudience": "STUDENTS",
+    "priority": "NORMAL",
+    "isPublished": true,
+    "createdAt": "2024-12-10T09:00:00.000Z"
+  },
+  {
+    "_id": "anc_004",
+    "title": "Resume building workshop for all final year students",
+    "category": "WORKSHOP",
+    "content": "Interactive workshop on crafting ATS-compliant technical resumes, formatting GitHub and LinkedIn profiles.",
+    "targetAudience": "ALL",
+    "priority": "NORMAL",
+    "isPublished": true,
+    "createdAt": "2024-12-08T09:00:00.000Z"
+  },
+  {
+    "_id": "anc_005",
+    "title": "Updated placement policy for 2025-26 batch",
+    "category": "POLICY",
+    "content": "Placement Committee guidelines regarding Dream and Super Dream recruitment eligibility rules have been published.",
+    "targetAudience": "ALL",
+    "priority": "NORMAL",
+    "isPublished": true,
+    "createdAt": "2024-12-05T09:00:00.000Z"
+  }
+]

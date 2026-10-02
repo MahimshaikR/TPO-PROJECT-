@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "res_001",
+    "title": "Comprehensive Quantitative Aptitude & Speed Math Master Formula Sheet",
+    "category": "APTITUDE",
+    "description": "Handcrafted speed calculation shortcuts, mental math formulas, and 500+ solved practice problems covering all major corporate recruitment exams.",
+    "fileUrl": "https://indiabix.com/aptitude/questions-and-answers/",
+    "externalLink": "https://indiabix.com",
+    "tags": ["Aptitude", "Quantitative", "Speed Math", "TCS", "Infosys"],
+    "isPublished": true,
+    "downloadsCount": 1420
+  },
+  {
+    "_id": "res_002",
+    "title": "Blind 75 & LeetCode Top 150 Coding Problem Explanations with Code in C++, Java & Python",
+    "category": "CODING",
+    "description": "Curated list of must-solve algorithmic interview problems classified by pattern: Sliding Window, Two Heaps, Topological Sort, and Dynamic Programming.",
+    "fileUrl": "https://leetcode.com/problemset/all/",
+    "externalLink": "https://leetcode.com",
+    "tags": ["DSA", "LeetCode", "Algorithms", "FAANG", "Coding"],
+    "isPublished": true,
+    "downloadsCount": 2315
+  },
+  {
+    "_id": "res_003",
+    "title": "FAANG-Standard ATS-Optimized Single Page Resume LaTeX and Word Templates",
+    "category": "RESUME",
+    "description": "Tested and proven resume template formats designed to pass modern Applicant Tracking Systems (ATS) with 95%+ parser fidelity.",
+    "fileUrl": "https://overleaf.com/gallery/tagged/cv",
+    "externalLink": "https://overleaf.com",
+    "tags": ["Resume", "ATS", "LaTeX", "Career Preparation"],
+    "isPublished": true,
+    "downloadsCount": 1890
+  },
+  {
+    "_id": "res_004",
+    "title": "Top 50 Behavioral Interview Questions & STAR Method Response Guide",
+    "category": "HR_PREP",
+    "description": "Systematic breakdown of behavioral interview prompts with sample responses using the Situation, Task, Action, and Result (STAR) framework.",
+    "fileUrl": "https://www.themuse.com/advice/star-interview-method",
+    "externalLink": "https://themuse.com",
+    "tags": ["HR", "Behavioral", "STAR Method", "Soft Skills"],
+    "isPublished": true,
+    "downloadsCount": 980
+  },
+  {
+    "_id": "res_005",
+    "title": "System Design Primer & High-Level Architecture Patterns for SDE-1 Interviews",
+    "category": "SYSTEM_DESIGN",
+    "description": "Essential architectural concepts including Caching, Load Balancing, Consistent Hashing, Message Queues, and Microservices fundamentals.",
+    "fileUrl": "https://github.com/donnemartin/system-design-primer",
+    "externalLink": "https://github.com",
+    "tags": ["System Design", "Distributed Systems", "Cloud", "SDE"],
+    "isPublished": true,
+    "downloadsCount": 1120
+  },
+  {
+    "_id": "res_006",
+    "title": "TCS NQT, Infosys DSE & Wipro NLTH Previous 5-Year Solved Question Papers",
+    "category": "PREVIOUS_PAPERS",
+    "description": "Actual previous year test questions with step-by-step mathematical explanations, verbal reasoning drills, and pseudo-code exercises.",
+    "fileUrl": "https://prepinsta.com/",
+    "externalLink": "https://prepinsta.com",
+    "tags": ["Previous Papers", "TCS NQT", "Infosys DSE", "Wipro NLTH"],
+    "isPublished": true,
+    "downloadsCount": 2840
+  }
+]

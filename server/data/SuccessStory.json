@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "story_001",
+    "studentName": "Priya Sharma",
+    "role": "Software Engineer at Infosys",
+    "companyName": "Infosys",
+    "packageLpa": 9.5,
+    "branch": "CSE",
+    "batch": "2024 Batch",
+    "story": "The training and placement cell provided excellent support throughout my journey.",
+    "photoUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "_id": "story_002",
+    "studentName": "Amit Verma",
+    "role": "Associate Engineer at TCS",
+    "companyName": "Tata Consultancy Services",
+    "packageLpa": 7.5,
+    "branch": "IT",
+    "batch": "2024 Batch",
+    "story": "The mock interviews and training sessions helped me crack the interview.",
+    "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80"
+  }
+]

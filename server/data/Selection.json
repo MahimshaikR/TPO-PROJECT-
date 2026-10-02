@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "sel_001",
+    "driveId": "drive_google_2026_01",
+    "applicationId": "app_001",
+    "studentId": "stu_mahi_001",
+    "companyId": "comp_google_001",
+    "packageLpa": 38.5,
+    "designation": "Associate Software Engineer",
+    "offerLetterUrl": "/uploads/documents/offer-google-mahi.pdf",
+    "selectionDate": "2026-09-20",
+    "status": "ACCEPTED",
+    "academicYear": "2026-27",
+    "createdAt": "2026-09-30T08:59:25.751Z",
+    "updatedAt": "2026-09-30T08:59:25.751Z"
+  },
+  {
+    "_id": "sel_002",
+    "driveId": "drive_msft_2026_02",
+    "applicationId": "app_002",
+    "studentId": "stu_ananya_003",
+    "companyId": "comp_msft_002",
+    "packageLpa": 43.5,
+    "designation": "Software Engineer - AI Systems",
+    "offerLetterUrl": "/uploads/documents/offer-msft-ananya.pdf",
+    "selectionDate": "2026-09-18",
+    "status": "ACCEPTED",
+    "academicYear": "2026-27",
+    "createdAt": "2026-09-30T08:59:25.752Z",
+    "updatedAt": "2026-09-30T08:59:25.752Z"
+  }
+]

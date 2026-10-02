@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "att_001",
+    "driveId": "drive_google_2026_01",
+    "roundName": "Online Assessment",
+    "studentId": "stu_mahi_001",
+    "isPresent": true,
+    "markedAt": "2026-09-12T00:00:00.000Z",
+    "markedBy": "user_admin_001",
+    "createdAt": "2026-09-30T08:59:25.743Z",
+    "updatedAt": "2026-09-30T08:59:25.743Z"
+  },
+  {
+    "_id": "att_002",
+    "driveId": "drive_msft_2026_02",
+    "roundName": "Online Assessment",
+    "studentId": "stu_ananya_003",
+    "isPresent": true,
+    "markedAt": "2026-09-14T00:00:00.000Z",
+    "markedBy": "user_admin_001",
+    "createdAt": "2026-09-30T08:59:25.744Z",
+    "updatedAt": "2026-09-30T08:59:25.744Z"
+  },
+  {
+    "_id": "att_003",
+    "driveId": "drive_cisco_2026_03",
+    "roundName": "Online Assessment",
+    "studentId": "stu_rahul_002",
+    "isPresent": true,
+    "markedAt": "2026-09-16T00:00:00.000Z",
+    "markedBy": "user_admin_001",
+    "createdAt": "2026-09-30T08:59:25.747Z",
+    "updatedAt": "2026-09-30T08:59:25.747Z"
+  }
+]

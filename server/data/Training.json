@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "trn_001",
+    "title": "Full Stack Web Engineering & Cloud Deployment Bootcamp",
+    "code": "TRN-FSW-2026",
+    "category": "TECHNICAL",
+    "description": "Comprehensive 40-hour intensive hands-on bootcamp covering Node.js microservices, React single-page applications, MongoDB aggregations, and AWS Cloud deployments.",
+    "instructor": "Kavita Menon (Ex-Amazon Staff Engineer)",
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-25",
+    "targetBranches": [
+      "CSE",
+      "IT",
+      "AIML",
+      "ECE"
+    ],
+    "targetBatches": [
+      "2027"
+    ],
+    "venue": "Computer Center Lab 1 & Microsoft Teams",
+    "status": "ACTIVE",
+    "syllabus": [
+      "Module 1: Modern JavaScript ES6+, Asynchronous Patterns & Node Internals",
+      "Module 2: Building Production REST APIs with Express & Security Middlewares",
+      "Module 3: Database Design, Schema Modeling & Indexing in MongoDB",
+      "Module 4: React Fundamentals, State Management & Custom Hooks",
+      "Module 5: Docker Containerization, CI/CD Pipelines & Cloud Hosting"
+    ],
+    "totalHours": 40,
+    "createdAt": "2026-09-30T08:59:25.753Z",
+    "updatedAt": "2026-09-30T08:59:25.753Z"
+  },
+  {
+    "_id": "trn_002",
+    "title": "Competitive DSA & FAANG Coding Interview Mastery",
+    "code": "TRN-DSA-2026",
+    "category": "INTERVIEW_PREP",
+    "description": "Systematic drill on advanced data structures, graph traversals, dynamic programming patterns, and time-space optimization strategies required for Tier 1 tech interviews.",
+    "instructor": "Prof. Vikram Verma (Competitive Coding Lead)",
+    "startDate": "2026-09-20",
+    "endDate": "2026-10-18",
+    "targetBranches": [
+      "CSE",
+      "IT",
+      "AIML",
+      "Data Science",
+      "ECE",
+      "EEE"
+    ],
+    "targetBatches": [
+      "2027"
+    ],
+    "venue": "Seminar Hall 2",
+    "status": "ACTIVE",
+    "syllabus": [
+      "Module 1: Asymptotic Analysis & Two-Pointer / Sliding Window Techniques",
+      "Module 2: Trees, Tries & Binary Search Invariants",
+      "Module 3: Graph Algorithms (BFS, DFS, Dijkstra, Union-Find)",
+      "Module 4: Dynamic Programming (Memoization vs Tabulation, Knapsack, Matrix Chain)",
+      "Module 5: Live Mock Technical Coding Rounds & Timed Assessments"
+    ],
+    "totalHours": 45,
+    "createdAt": "2026-09-30T08:59:25.755Z",
+    "updatedAt": "2026-09-30T08:59:25.755Z"
+  },
+  {
+    "_id": "trn_003",
+    "title": "Corporate Aptitude, Quantitative Reasoning & Verbal Ability",
+    "code": "TRN-APT-2026",
+    "category": "APTITUDE",
+    "description": "Master time-saving speed math tricks, logical puzzles, critical reasoning, and business communication required to clear first-round corporate screening tests.",
+    "instructor": "Anand Kulkarni (Senior Aptitude Trainer)",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-30",
+    "targetBranches": [
+      "All"
+    ],
+    "targetBatches": [
+      "2027"
+    ],
+    "venue": "Auditorium & LMS Portal",
+    "status": "ACTIVE",
+    "syllabus": [
+      "Module 1: Speed Arithmetic, Percentages, Profit & Loss, Ratio Proportions",
+      "Module 2: Time-Speed-Distance, Work & Pipes, Permutations & Probability",
+      "Module 3: Logical Seating Arrangements, Syllogisms, Blood Relations",
+      "Module 4: Reading Comprehension, Sentence Correction & Vocabulary in Context"
+    ],
+    "totalHours": 30,
+    "createdAt": "2026-09-30T08:59:25.756Z",
+    "updatedAt": "2026-09-30T08:59:25.756Z"
+  }
+]

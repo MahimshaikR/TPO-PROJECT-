@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "drive_tcs_2025_01",
+    "title": "Tata Consultancy Services Campus Drive",
+    "companyId": "comp_tcs_001",
+    "companyName": "Tata Consultancy Services",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg",
+    "jobRole": "Software Developer",
+    "jobType": "FULL_TIME",
+    "description": "TCS is hiring software developers for innovative enterprise engineering teams.",
+    "packageLpa": 7.5,
+    "location": "Pan India",
+    "venue": "Campus Tech Lab & Virtual Assessment",
+    "vacancies": 80,
+    "eligibility": {
+      "branches": ["CSE", "IT", "AIML"],
+      "minCgpa": 6.5,
+      "maxBacklogs": 0
+    },
+    "driveDate": "2025-01-15T09:00:00.000Z",
+    "deadline": "2025-01-10T23:59:59.000Z",
+    "status": "UPCOMING"
+  },
+  {
+    "_id": "drive_infosys_2025_02",
+    "title": "Infosys Special Engineer Program",
+    "companyId": "comp_infosys_002",
+    "companyName": "Infosys",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg",
+    "jobRole": "System Engineer",
+    "jobType": "FULL_TIME",
+    "description": "Infosys System Engineer campus drive across all engineering domains.",
+    "packageLpa": 9.5,
+    "location": "Bengaluru / Pune / Hyderabad",
+    "venue": "Online Assessment Portal",
+    "vacancies": 65,
+    "eligibility": {
+      "branches": ["All Branches"],
+      "minCgpa": 6.0,
+      "maxBacklogs": 1
+    },
+    "driveDate": "2025-01-22T09:00:00.000Z",
+    "deadline": "2025-01-18T23:59:59.000Z",
+    "status": "UPCOMING"
+  },
+  {
+    "_id": "drive_wipro_2025_03",
+    "title": "Wipro Elite National Talent Hunt",
+    "companyId": "comp_wipro_003",
+    "companyName": "Wipro",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Logo_RGB.svg",
+    "jobRole": "Project Engineer",
+    "jobType": "FULL_TIME",
+    "description": "Wipro Project Engineer recruitment drive for circuit and computing branches.",
+    "packageLpa": 6.8,
+    "location": "Bengaluru / Hyderabad / Chennai",
+    "venue": "Campus Auditorium",
+    "vacancies": 50,
+    "eligibility": {
+      "branches": ["CSE", "ECE", "EEE"],
+      "minCgpa": 6.5,
+      "maxBacklogs": 0
+    },
+    "driveDate": "2025-01-28T09:00:00.000Z",
+    "deadline": "2025-01-24T23:59:59.000Z",
+    "status": "UPCOMING"
+  },
+  {
+    "_id": "drive_accenture_2025_04",
+    "title": "Accenture Advanced Technology Centers in India",
+    "companyId": "comp_accenture_004",
+    "companyName": "Accenture",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
+    "jobRole": "Associate Software Engineer",
+    "jobType": "FULL_TIME",
+    "description": "Join Accenture Technology Centers to develop scalable modern cloud solutions.",
+    "packageLpa": 8.0,
+    "location": "Bengaluru / Gurugram / Mumbai",
+    "venue": "Virtual Assessment",
+    "vacancies": 70,
+    "eligibility": {
+      "branches": ["CSE", "IT"],
+      "minCgpa": 7.0,
+      "maxBacklogs": 0
+    },
+    "driveDate": "2025-02-05T09:00:00.000Z",
+    "deadline": "2025-01-30T23:59:59.000Z",
+    "status": "UPCOMING"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "grv_001",
+    "ticketNumber": "GRV-2026-8941",
+    "studentName": "Kunal Patil",
+    "rollNumber": "23ME045",
+    "email": "kunal.mech23@nriit.edu.in",
+    "category": "ELIGIBILITY",
+    "description": "Re-evaluation mark sheet updated with no backlogs, but portal still lists 1 backlog in records.",
+    "status": "RESOLVED",
+    "adminRemarks": "Grade card verified with Academic Section. Backlogs updated to 0.",
+    "resolvedAt": "2026-09-25T00:00:00.000Z",
+    "createdAt": "2026-09-30T08:59:25.827Z",
+    "updatedAt": "2026-09-30T08:59:25.827Z"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "fb_001",
+    "name": "Rohan Mehta",
+    "email": "rohan.m@gmail.com",
+    "role": "Student",
+    "subject": "Great initiative with the new TPO Connect portal",
+    "message": "The new dynamic eligibility calculator and one-click application feature saves an immense amount of time during drive registrations!",
+    "rating": 5,
+    "status": "REVIEWED",
+    "response": "Thank you for your valuable feedback, Rohan! We continuously enhance features for student success.",
+    "createdAt": "2026-09-30T08:59:25.826Z",
+    "updatedAt": "2026-09-30T08:59:25.826Z"
+  }
+]

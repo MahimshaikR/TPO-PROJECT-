@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "hack_001",
+    "title": "Smart India Hackathon (SIH) 2026 — Institutional Internal Hackathon",
+    "organizer": "Ministry of Education & Apex Innovation Council",
+    "category": "National / Institutional",
+    "mode": "Hybrid",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-16",
+    "registrationDeadline": "2026-10-10",
+    "teamSizeMin": 6,
+    "teamSizeMax": 6,
+    "prizePool": "₹ 1,00,000 per problem statement",
+    "description": "The premier nationwide initiative to provide students a platform to solve some of the pressing problems faced in daily lives, and inculcate a culture of product innovation and problem-solving mindset.",
+    "problemStatements": [
+      "AI-Powered Smart Traffic Management using Existing CCTV Infrastructure",
+      "Blockchain-Enabled Automated Degree & Certificate Verification Portal",
+      "Decentralized Cold Chain Logistics Tracker for Agricultural Fresh Produce",
+      "Early Detection of Plant Diseases using Edge Computer Vision on Smartphones"
+    ],
+    "rules": [
+      "Each team must consist of strictly 6 members.",
+      "At least one female member is mandatory per team.",
+      "All team members must be enrolled undergraduate students."
+    ],
+    "eligibility": "B.Tech students from all years and branches with zero disciplinary records.",
+    "bannerUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80",
+    "status": "ACTIVE",
+    "registeredTeamsCount": 38,
+    "winners": []
+  },
+  {
+    "_id": "hack_002",
+    "title": "Apex CodeStorm 2026: 36-Hour National Collegiate Hackathon",
+    "organizer": "T&P Cell in Collaboration with AWS & Google Cloud",
+    "category": "Web3 & Generative AI",
+    "mode": "Offline (Campus Auditorium)",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-07",
+    "registrationDeadline": "2026-10-28",
+    "teamSizeMin": 2,
+    "teamSizeMax": 4,
+    "prizePool": "₹ 2,50,000 + Direct PPIs at Top Startups",
+    "description": "36 hours of non-stop hacking, mentoring from Silicon Valley engineers, free food, swag packs, and direct fast-track interview opportunities for winning teams.",
+    "problemStatements": [
+      "Autonomous Agentic Workflows for Local SME Invoicing & Compliance",
+      "Accessible Audio-Visual Education Tool for Neurodiverse Learners",
+      "Carbon Footprint Real-Time Verification using Satellite Imagery and ML"
+    ],
+    "rules": [
+      "Code must be written during the hackathon hours.",
+      "Open source libraries and APIs are permitted.",
+      "Mentors will evaluate commits on GitHub repositories."
+    ],
+    "eligibility": "Open to all engineering and technology institutions across India.",
+    "bannerUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "status": "UPCOMING",
+    "registeredTeamsCount": 64,
+    "winners": []
+  },
+  {
+    "_id": "hack_003",
+    "title": "TCS CodeVita Season 14 — Campus Selection Round",
+    "organizer": "Tata Consultancy Services (TCS)",
+    "category": "Competitive Programming",
+    "mode": "Online",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "registrationDeadline": "2026-09-10",
+    "teamSizeMin": 1,
+    "teamSizeMax": 1,
+    "prizePool": "$ 20,000 Global Purse + Direct TCS Digital & Prime Job Offers",
+    "description": "The world's largest competitive coding contest certified by Guinness World Records. Solvers of 2+ questions qualify directly for TCS Prime (9 LPA) and Digital (7 LPA) interviews.",
+    "problemStatements": [
+      "Graph Traversal & Minimum Spanning Tree with Dynamic Weights",
+      "Matrix Permutation with Bitwise Constraints"
+    ],
+    "rules": [
+      "Individual participation only.",
+      "Strict zero-tolerance policy on plagiarism and shared code."
+    ],
+    "eligibility": "B.Tech Batch of 2026 & 2027.",
+    "bannerUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+    "status": "COMPLETED",
+    "registeredTeamsCount": 420,
+    "winners": [
+      {
+        "rank": 1,
+        "teamName": "Akash Sharma",
+        "members": "Akash Sharma (CSE)",
+        "projectTitle": "Global Rank 42 / Solved 6/6"
+      },
+      {
+        "rank": 2,
+        "teamName": "Divya Rao",
+        "members": "Divya Rao (IT)",
+        "projectTitle": "Global Rank 115 / Solved 5/6"
+      }
+    ]
+  }
+]

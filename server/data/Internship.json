@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "intn_001",
+    "title": "Software Engineering Summer Intern 2027",
+    "company": "Google India",
+    "stipend": "₹1,00,000 / month",
+    "duration": "8 - 12 Weeks (Summer 2027)",
+    "location": "Bengaluru / Hyderabad",
+    "type": "SUMMER",
+    "applyLink": "https://careers.google.com/internships",
+    "deadline": "2026-11-15",
+    "branches": [
+      "CSE",
+      "IT",
+      "AIML",
+      "ECE"
+    ],
+    "description": "Interns at Google work on core products that impact billions of users worldwide. You will partner with an experienced mentor, write production-ready code, and present project milestones.",
+    "requirements": [
+      "Enrolled in B.Tech 2027 batch",
+      "Proficiency in C++, Java, or Python",
+      "Solid data structures foundation"
+    ],
+    "status": "ACTIVE",
+    "createdAt": "2026-09-30T08:59:25.765Z",
+    "updatedAt": "2026-09-30T08:59:25.765Z"
+  },
+  {
+    "_id": "intn_002",
+    "title": "Cloud Solutions Engineering Intern",
+    "company": "Amazon Web Services",
+    "stipend": "₹80,000 / month",
+    "duration": "6 Months (Jan 2027 - Jun 2027)",
+    "location": "Bengaluru",
+    "type": "SEMESTER_LONG",
+    "applyLink": "https://amazon.jobs",
+    "deadline": "2026-11-20",
+    "branches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE"
+    ],
+    "description": "Assist enterprise AWS customers in designing resilient, fault-tolerant cloud architectures and automating infrastructure via Terraform and CloudFormation.",
+    "requirements": [
+      "Familiarity with Linux OS",
+      "Networking fundamentals",
+      "Strong verbal and written communication"
+    ],
+    "status": "ACTIVE",
+    "createdAt": "2026-09-30T08:59:25.767Z",
+    "updatedAt": "2026-09-30T08:59:25.767Z"
+  },
+  {
+    "_id": "intn_003",
+    "title": "AI & Data Science Research Intern",
+    "company": "Microsoft Research India",
+    "stipend": "₹90,000 / month",
+    "duration": "6 Months",
+    "location": "Bengaluru",
+    "type": "SEMESTER_LONG",
+    "applyLink": "https://careers.microsoft.com",
+    "deadline": "2026-11-25",
+    "branches": [
+      "CSE",
+      "AIML",
+      "Data Science"
+    ],
+    "description": "Collaborate with world-class computer scientists on state-of-the-art multimodal vision and language architectures.",
+    "requirements": [
+      "PyTorch or JAX proficiency",
+      "Linear algebra & calculus understanding",
+      "Prior academic publications or open source contributions preferred"
+    ],
+    "status": "ACTIVE",
+    "createdAt": "2026-09-30T08:59:25.770Z",
+    "updatedAt": "2026-09-30T08:59:25.770Z"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "ev_001",
+    "title": "Industry Visit to TCS",
+    "speaker": "TCS Campus Relations Team",
+    "eventDate": "2024-12-10T10:00:00.000Z",
+    "time": "10:00 AM - 4:00 PM",
+    "venue": "TCS Synergy Park Campus",
+    "category": "INDUSTRIAL_VISIT",
+    "status": "COMPLETED",
+    "isPublic": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "_id": "ev_002",
+    "title": "Guest Lecture on AI",
+    "speaker": "Dr. V. Ramanathan, AI Research Lead",
+    "eventDate": "2024-12-05T14:00:00.000Z",
+    "time": "2:00 PM - 4:30 PM",
+    "venue": "Seminar Hall A",
+    "category": "GUEST_LECTURE",
+    "status": "COMPLETED",
+    "isPublic": true,
+    "imageUrl": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "_id": "ev_003",
+    "title": "Workshop on Resume Building",
+    "speaker": "Placement Cell Faculty Mentors",
+    "eventDate": "2024-11-28T09:30:00.000Z",
+    "time": "9:30 AM - 1:00 PM",
+    "venue": "Central Computing Center",
+    "category": "WORKSHOP",
+    "status": "COMPLETED",
+    "isPublic": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "_id": "ev_004",
+    "title": "MoU with Tech Solutions",
+    "speaker": "Corporate Executive Officers",
+    "eventDate": "2024-11-20T11:00:00.000Z",
+    "time": "11:00 AM - 12:30 PM",
+    "venue": "Board Room, Admin Block",
+    "category": "MOU",
+    "status": "COMPLETED",
+    "isPublic": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=500&q=80"
+  }
+]

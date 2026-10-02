@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "int_001",
+    "driveId": "drive_cisco_2026_03",
+    "applicationId": "app_003",
+    "studentId": "stu_rahul_002",
+    "companyId": "comp_cisco_004",
+    "roundName": "Technical Interview - Core Systems",
+    "roundNumber": 2,
+    "scheduledAt": "2026-10-12 11:30 AM",
+    "mode": "ONLINE",
+    "venueOrLink": "https://meet.google.com/xyz-abcd-efg",
+    "status": "SCHEDULED",
+    "feedback": "Candidate demonstrated good knowledge in TCP/IP; proceeding to second technical evaluation.",
+    "interviewer": "Rajesh Nair (Principal Architect, Cisco)",
+    "createdAt": "2026-09-30T08:59:25.749Z",
+    "updatedAt": "2026-09-30T08:59:25.749Z"
+  }
+]

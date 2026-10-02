@@ -1,0 +1,447 @@
+[
+  {
+    "_id": "03905d8e52420eb62de32a61",
+    "action": "SYSTEM_INITIALIZATION",
+    "performedBy": {
+      "userId": "SYSTEM",
+      "name": "System Kernel",
+      "email": "system@apexinstitute.edu.in",
+      "role": "SUPER_ADMIN"
+    },
+    "targetModel": "Settings",
+    "targetId": "settings_singleton_001",
+    "ipAddress": "127.0.0.1",
+    "details": {
+      "message": "TPO Connect system initialized with dynamic configuration."
+    },
+    "timestamp": "2026-09-30T08:59:25.676Z",
+    "createdAt": "2026-09-30T08:59:25.828Z",
+    "updatedAt": "2026-09-30T08:59:25.828Z"
+  },
+  {
+    "_id": "8bd3d10fa6f2611316886c1f",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "timestamp": "2026-09-30T09:07:41.189Z",
+    "createdAt": "2026-09-30T09:07:41.190Z",
+    "updatedAt": "2026-09-30T09:07:41.190Z"
+  },
+  {
+    "_id": "38a14b42df064395339915ad",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "timestamp": "2026-10-02T12:01:43.684Z",
+    "createdAt": "2026-10-02T12:01:43.684Z",
+    "updatedAt": "2026-10-02T12:01:43.684Z"
+  },
+  {
+    "_id": "ac7f6f13f587a8f4a8abb288",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "timestamp": "2026-10-02T12:02:37.068Z",
+    "createdAt": "2026-10-02T12:02:37.074Z",
+    "updatedAt": "2026-10-02T12:02:37.074Z"
+  },
+  {
+    "_id": "9fdaead578e5b936c979caf3",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "timestamp": "2026-10-02T12:07:14.304Z",
+    "createdAt": "2026-10-02T12:07:14.309Z",
+    "updatedAt": "2026-10-02T12:07:14.309Z"
+  },
+  {
+    "_id": "7f2a5e01b6eca232418c6718",
+    "action": "USER_LOGOUT",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {},
+    "timestamp": "2026-10-02T12:08:42.110Z",
+    "createdAt": "2026-10-02T12:08:42.118Z",
+    "updatedAt": "2026-10-02T12:08:42.118Z"
+  },
+  {
+    "_id": "278eb469c8b8fd8442f71d6c",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "User",
+    "targetId": "user_stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "timestamp": "2026-10-02T12:09:09.445Z",
+    "createdAt": "2026-10-02T12:09:09.449Z",
+    "updatedAt": "2026-10-02T12:09:09.449Z"
+  },
+  {
+    "_id": "8bad19c969b765bd41ff145d",
+    "action": "USER_LOGOUT",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "User",
+    "targetId": "user_stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {},
+    "timestamp": "2026-10-02T12:09:32.890Z",
+    "createdAt": "2026-10-02T12:09:32.894Z",
+    "updatedAt": "2026-10-02T12:09:32.894Z"
+  },
+  {
+    "_id": "dbcfa1b1282f6a555904b6f8",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "User",
+    "targetId": "user_stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "timestamp": "2026-10-02T12:26:44.140Z",
+    "createdAt": "2026-10-02T12:26:44.149Z",
+    "updatedAt": "2026-10-02T12:26:44.149Z"
+  },
+  {
+    "_id": "d7b5a786ab7dfbb031db178b",
+    "action": "STUDENT_UPLOAD_RESUME",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "Student",
+    "targetId": "stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {
+      "filename": "Dudekula_Gafoor_Production_Trainee_Resume (1).docx"
+    },
+    "timestamp": "2026-10-02T12:27:32.714Z",
+    "createdAt": "2026-10-02T12:27:32.717Z",
+    "updatedAt": "2026-10-02T12:27:32.717Z"
+  },
+  {
+    "_id": "e4b9b4f7cc8035477c1c4fa8",
+    "action": "STUDENT_UPLOAD_RESUME",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "Student",
+    "targetId": "stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {
+      "filename": "Dudekula_Gafoor_Production_Trainee_Resume.docx"
+    },
+    "timestamp": "2026-10-02T12:27:56.947Z",
+    "createdAt": "2026-10-02T12:27:56.956Z",
+    "updatedAt": "2026-10-02T12:27:56.956Z"
+  },
+  {
+    "_id": "66511a787b240209d947c7a1",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "User",
+    "targetId": "user_stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "timestamp": "2026-10-02T12:34:21.098Z",
+    "createdAt": "2026-10-02T12:34:21.150Z",
+    "updatedAt": "2026-10-02T12:34:21.150Z"
+  },
+  {
+    "_id": "b0bf4ed393900ce59bbd10b1",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_rec_google_001",
+      "name": "Aakash Mehra",
+      "email": "recruiter@google.com",
+      "role": "RECRUITER"
+    },
+    "targetModel": "User",
+    "targetId": "user_rec_google_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "recruiter@google.com",
+      "role": "RECRUITER"
+    },
+    "timestamp": "2026-10-02T12:34:21.490Z",
+    "createdAt": "2026-10-02T12:34:21.494Z",
+    "updatedAt": "2026-10-02T12:34:21.494Z"
+  },
+  {
+    "_id": "57b3d5922d0d394874a9aa53",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_coord_001",
+      "name": "Prof. Vikram Verma",
+      "email": "coordinator.cse@apexinstitute.edu.in",
+      "role": "COORDINATOR"
+    },
+    "targetModel": "User",
+    "targetId": "user_coord_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "coordinator.cse@apexinstitute.edu.in",
+      "role": "COORDINATOR"
+    },
+    "timestamp": "2026-10-02T12:34:21.777Z",
+    "createdAt": "2026-10-02T12:34:21.781Z",
+    "updatedAt": "2026-10-02T12:34:21.781Z"
+  },
+  {
+    "_id": "643a8e05d8068709e27c1cd4",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "timestamp": "2026-10-02T12:34:22.056Z",
+    "createdAt": "2026-10-02T12:34:22.060Z",
+    "updatedAt": "2026-10-02T12:34:22.060Z"
+  },
+  {
+    "_id": "4960f77d2de8304ef0cbe43c",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "admin@apexinstitute.edu.in",
+      "role": "ADMIN"
+    },
+    "timestamp": "2026-10-02T12:34:34.366Z",
+    "createdAt": "2026-10-02T12:34:34.371Z",
+    "updatedAt": "2026-10-02T12:34:34.371Z"
+  },
+  {
+    "_id": "a29d052f540a5bba791df393",
+    "action": "USER_LOGOUT",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@apexinstitute.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "User",
+    "targetId": "user_stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {},
+    "timestamp": "2026-10-02T12:42:31.257Z",
+    "createdAt": "2026-10-02T12:42:31.260Z",
+    "updatedAt": "2026-10-02T12:42:31.260Z"
+  },
+  {
+    "_id": "a50cb8a6a35d9dcb97f8f383",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_admin_001",
+      "name": "Dr. Rajesh Sharma",
+      "email": "admin@nriit.edu.in",
+      "role": "ADMIN"
+    },
+    "targetModel": "User",
+    "targetId": "user_admin_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "admin@nriit.edu.in",
+      "role": "ADMIN"
+    },
+    "timestamp": "2026-10-02T12:53:50.221Z",
+    "createdAt": "2026-10-02T12:53:50.229Z",
+    "updatedAt": "2026-10-02T12:53:50.229Z"
+  },
+  {
+    "_id": "fe1cf7f088fd0b8e1d5a9d73",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_stu_mahi_001",
+      "name": "Mahi Sharma",
+      "email": "mahi.cse23@nriit.edu.in",
+      "role": "STUDENT"
+    },
+    "targetModel": "User",
+    "targetId": "user_stu_mahi_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "mahi.cse23@nriit.edu.in",
+      "role": "STUDENT"
+    },
+    "timestamp": "2026-10-02T12:53:50.540Z",
+    "createdAt": "2026-10-02T12:53:50.544Z",
+    "updatedAt": "2026-10-02T12:53:50.544Z"
+  },
+  {
+    "_id": "024fc72151b1e2a4395f9515",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_coord_001",
+      "name": "Prof. Vikram Verma",
+      "email": "coordinator.cse@nriit.edu.in",
+      "role": "COORDINATOR"
+    },
+    "targetModel": "User",
+    "targetId": "user_coord_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "coordinator.cse@nriit.edu.in",
+      "role": "COORDINATOR"
+    },
+    "timestamp": "2026-10-02T12:53:50.794Z",
+    "createdAt": "2026-10-02T12:53:50.797Z",
+    "updatedAt": "2026-10-02T12:53:50.797Z"
+  },
+  {
+    "_id": "2bab41340641565c07b1dbb1",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_rec_google_001",
+      "name": "Aakash Mehra",
+      "email": "recruiter@google.com",
+      "role": "RECRUITER"
+    },
+    "targetModel": "User",
+    "targetId": "user_rec_google_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "recruiter@google.com",
+      "role": "RECRUITER"
+    },
+    "timestamp": "2026-10-02T12:53:51.007Z",
+    "createdAt": "2026-10-02T12:53:51.010Z",
+    "updatedAt": "2026-10-02T12:53:51.010Z"
+  },
+  {
+    "_id": "a339871f0395eaf53891191e",
+    "action": "USER_LOGIN",
+    "performedBy": {
+      "userId": "user_rec_google_001",
+      "name": "Aakash Mehra",
+      "email": "recruiter@google.com",
+      "role": "RECRUITER"
+    },
+    "targetModel": "User",
+    "targetId": "user_rec_google_001",
+    "ipAddress": "::1",
+    "details": {
+      "email": "recruiter@google.com",
+      "role": "RECRUITER"
+    },
+    "timestamp": "2026-10-02T13:07:23.833Z",
+    "createdAt": "2026-10-02T13:07:23.835Z",
+    "updatedAt": "2026-10-02T13:07:23.835Z"
+  },
+  {
+    "_id": "5867513cbd9db1c299d9d454",
+    "action": "USER_LOGOUT",
+    "performedBy": {
+      "userId": "user_rec_google_001",
+      "name": "Aakash Mehra",
+      "email": "recruiter@google.com",
+      "role": "RECRUITER"
+    },
+    "targetModel": "User",
+    "targetId": "user_rec_google_001",
+    "ipAddress": "::1",
+    "details": {},
+    "timestamp": "2026-10-02T13:07:40.592Z",
+    "createdAt": "2026-10-02T13:07:40.601Z",
+    "updatedAt": "2026-10-02T13:07:40.601Z"
+  }
+]

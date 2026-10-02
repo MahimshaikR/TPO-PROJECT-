@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "sess_001",
+    "trainingId": "trn_001",
+    "title": "Session 1: Node.js Architecture & Asynchronous Event Loop",
+    "sessionDate": "2026-10-05",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 PM",
+    "topic": "Event loop mechanics, libuv, non-blocking I/O, streams and buffers",
+    "venue": "Computer Center Lab 1",
+    "createdAt": "2026-09-30T08:59:25.757Z",
+    "updatedAt": "2026-09-30T08:59:25.757Z"
+  },
+  {
+    "_id": "sess_002",
+    "trainingId": "trn_001",
+    "title": "Session 2: RESTful API Security & Token Architecture",
+    "sessionDate": "2026-10-07",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 PM",
+    "topic": "JWT payload signing, helmet headers, rate limiting, and CORS best practices",
+    "venue": "Computer Center Lab 1",
+    "createdAt": "2026-09-30T08:59:25.761Z",
+    "updatedAt": "2026-09-30T08:59:25.761Z"
+  }
+]

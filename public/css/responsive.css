@@ -1,0 +1,217 @@
+/* ==========================================================================
+   TPO CONNECT — Responsive Breakpoints & Mobile Optimization
+   ========================================================================== */
+
+/* 1920px+ (Large Desktop) */
+@media (min-width: 1920px) {
+  :root {
+    --max-width: 1600px;
+  }
+}
+
+/* <= 1200px (Laptops) */
+@media (max-width: 1200px) {
+  .footer-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .portal-grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* <= 1140px (Small Laptops & Tablets) */
+@media (max-width: 1140px) {
+  .hero-title {
+    font-size: 2.75rem;
+  }
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 68px;
+    left: 0;
+    width: 100%;
+    background: #ffffff;
+    flex-direction: column;
+    padding: 1rem 1.25rem;
+    border-bottom: 2px solid #e2e8f0;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+    gap: 0.35rem;
+    z-index: 1000;
+  }
+  .nav-links.show {
+    display: flex !important;
+  }
+  .mobile-menu-btn {
+    display: inline-flex !important;
+  }
+  .nav-link {
+    width: 100%;
+    padding: 0.65rem 1rem !important;
+    font-size: 0.95rem;
+    height: auto !important;
+    border-bottom: none !important;
+  }
+  .grid-cols-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .grid-cols-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .portal-sidebar {
+    width: 220px;
+  }
+}
+
+/* <= 768px (Tablets & Mobile Landscape) */
+@media (max-width: 768px) {
+  .top-bar {
+    display: none;
+  }
+  .nav-link {
+    width: 100%;
+    padding: 0.65rem 1rem;
+    font-size: 1rem;
+  }
+  .hero {
+    padding: 3.5rem 0 4.5rem 0;
+  }
+  .hero-title {
+    font-size: 2.25rem;
+  }
+  .hero-subtitle {
+    font-size: 1.05rem;
+  }
+  .stats-banner {
+    margin-top: -2rem;
+  }
+  .grid-cols-2, .grid-cols-3, .grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  .footer-bottom {
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+  }
+
+  /* Portal on tablet/mobile */
+  .portal-wrapper {
+    flex-direction: column;
+  }
+  .portal-sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    border-right: none;
+    border-bottom: 1px solid #1e293b;
+  }
+  .portal-main {
+    padding: 1.25rem;
+  }
+  .portal-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .status-stepper {
+    overflow-x: auto;
+    padding-bottom: 0.75rem;
+  }
+}
+
+/* <= 425px (Large Mobile) */
+@media (max-width: 425px) {
+  .hero-title {
+    font-size: 1.85rem;
+  }
+  .section {
+    padding: 2.5rem 0;
+  }
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+  .filter-group {
+    flex: 1 1 100%;
+  }
+  .btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+/* <= 375px (Medium Mobile) */
+@media (max-width: 375px) {
+  html {
+    font-size: 15px;
+  }
+  .stat-value {
+    font-size: 1.65rem;
+  }
+  .brand-name {
+    font-size: 1.1rem;
+  }
+}
+
+/* <= 320px (Small Mobile) */
+@media (max-width: 320px) {
+  html {
+    font-size: 14px;
+  }
+  .container {
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
+  }
+  .portal-main {
+    padding: 0.85rem;
+  }
+}
+
+/* Responsive updates for New Layout */
+@media (max-width: 1200px) {
+  .stats-strip {
+    grid-template-columns: repeat(4, 1fr) !important;
+  }
+}
+
+@media (max-width: 992px) {
+  .hero-cursive {
+    display: none;
+  }
+  .hero-heading {
+    font-size: 2.5rem !important;
+  }
+  .stats-strip {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  div[style*="grid-template-columns: 1fr 1.25fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+  div[style*="grid-template-columns: 1.4fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+  div[style*="grid-template-columns: repeat(4, 1fr)"] {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .stats-strip {
+    grid-template-columns: 1fr !important;
+  }
+  .hero-heading {
+    font-size: 2rem !important;
+  }
+  .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  div[style*="grid-template-columns: repeat(4, 1fr)"] {
+    grid-template-columns: 1fr !important;
+  }
+  div[style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}

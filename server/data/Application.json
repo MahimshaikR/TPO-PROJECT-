@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "app_001",
+    "studentId": "stu_mahi_001",
+    "driveId": "drive_google_2026_01",
+    "companyId": "comp_google_001",
+    "appliedDate": "2026-09-10T00:00:00.000Z",
+    "status": "SELECTED",
+    "currentRound": "Final Selection Completed",
+    "notes": "Exceptional performance in algorithmic problem solving and system design.",
+    "feedback": "Offered Associate Software Engineer role at 38.5 LPA",
+    "createdAt": "2026-09-30T08:59:25.737Z",
+    "updatedAt": "2026-09-30T08:59:25.737Z"
+  },
+  {
+    "_id": "app_002",
+    "studentId": "stu_ananya_003",
+    "driveId": "drive_msft_2026_02",
+    "companyId": "comp_msft_002",
+    "appliedDate": "2026-09-12T00:00:00.000Z",
+    "status": "SELECTED",
+    "currentRound": "Final Selection Completed",
+    "notes": "Outstanding deep learning project background and strong coding skills.",
+    "feedback": "Offered Software Engineer - AI Systems at 43.5 LPA",
+    "createdAt": "2026-09-30T08:59:25.738Z",
+    "updatedAt": "2026-09-30T08:59:25.738Z"
+  },
+  {
+    "_id": "app_003",
+    "studentId": "stu_rahul_002",
+    "driveId": "drive_cisco_2026_03",
+    "companyId": "comp_cisco_004",
+    "appliedDate": "2026-09-15T00:00:00.000Z",
+    "status": "INTERVIEW",
+    "currentRound": "Technical Interview II",
+    "notes": "Passed online coding assessment with 100% score.",
+    "feedback": "Interview scheduled for Oct 12th",
+    "createdAt": "2026-09-30T08:59:25.739Z",
+    "updatedAt": "2026-09-30T08:59:25.739Z"
+  },
+  {
+    "_id": "app_004",
+    "studentId": "stu_mahi_001",
+    "driveId": "drive_msft_2026_02",
+    "companyId": "comp_msft_002",
+    "appliedDate": "2026-09-14T00:00:00.000Z",
+    "status": "SHORTLISTED",
+    "currentRound": "Technical Interview I",
+    "notes": "Shortlisted based on high assessment marks.",
+    "feedback": "",
+    "createdAt": "2026-09-30T08:59:25.742Z",
+    "updatedAt": "2026-09-30T08:59:25.742Z"
+  }
+]

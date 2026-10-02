@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "rec_google_profile_001",
+    "userId": "user_rec_google_001",
+    "fullName": "Aakash Mehra",
+    "email": "recruiter@google.com",
+    "phone": "+91 98112 34567",
+    "companyId": "comp_google_001",
+    "companyName": "Google LLC",
+    "designation": "University Relations Lead",
+    "officialEmail": "aakashm@google.com",
+    "isVerified": true,
+    "status": "APPROVED",
+    "createdAt": "2026-09-30T08:59:25.712Z",
+    "updatedAt": "2026-09-30T08:59:25.712Z"
+  },
+  {
+    "_id": "rec_msft_profile_002",
+    "userId": "user_rec_msft_002",
+    "fullName": "Sarah Jenkins",
+    "email": "sarah@microsoft.com",
+    "phone": "+91 98223 45678",
+    "companyId": "comp_msft_002",
+    "companyName": "Microsoft Corporation",
+    "designation": "Senior Technical Recruiter",
+    "officialEmail": "sarah.j@microsoft.com",
+    "isVerified": true,
+    "status": "APPROVED",
+    "createdAt": "2026-09-30T08:59:25.713Z",
+    "updatedAt": "2026-09-30T08:59:25.713Z"
+  }
+]

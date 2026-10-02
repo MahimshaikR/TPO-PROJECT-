@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "ach_001",
+    "studentName": "Mahi Sharma",
+    "rollNumber": "23CS001",
+    "branch": "CSE",
+    "batch": "2027",
+    "companyName": "Google LLC",
+    "companyLogo": "https://www.google.com/favicon.ico",
+    "packageLpa": 38.5,
+    "role": "Associate Software Engineer",
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "badge": "Super Dream Offer",
+    "year": "2026-27",
+    "isFeatured": true
+  },
+  {
+    "_id": "ach_002",
+    "studentName": "Ananya Iyer",
+    "rollNumber": "23AI008",
+    "branch": "AIML",
+    "batch": "2027",
+    "companyName": "Microsoft Corporation",
+    "companyLogo": "https://www.microsoft.com/favicon.ico",
+    "packageLpa": 43.5,
+    "role": "Software Engineer - AI Systems",
+    "photoUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "badge": "Super Dream Offer",
+    "year": "2026-27",
+    "isFeatured": true
+  },
+  {
+    "_id": "ach_003",
+    "studentName": "Siddharth Rao",
+    "rollNumber": "22CS089",
+    "branch": "CSE",
+    "batch": "2026",
+    "companyName": "Amazon Web Services",
+    "companyLogo": "https://www.amazon.com/favicon.ico",
+    "packageLpa": 36.0,
+    "role": "Cloud Development Engineer",
+    "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+    "badge": "Super Dream Offer",
+    "year": "2025-26",
+    "isFeatured": true
+  },
+  {
+    "_id": "ach_004",
+    "studentName": "Rohan Kulkarni",
+    "rollNumber": "22IT045",
+    "branch": "IT",
+    "batch": "2025",
+    "companyName": "Tata Consultancy Services (Digital Innovator)",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg",
+    "packageLpa": 18.0,
+    "role": "Digital Innovator Lead",
+    "photoUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80",
+    "badge": "Super Dream Offer",
+    "year": "2024-25",
+    "isFeatured": true
+  }
+]

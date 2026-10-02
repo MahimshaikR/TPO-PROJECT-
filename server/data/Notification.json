@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "notif_001",
+    "recipientId": "stu_mahi_001",
+    "recipientRole": "STUDENT",
+    "title": "Congratulations! Official Offer Received from Google LLC",
+    "message": "You have been selected for the position of Associate Software Engineer at Google LLC with an annual package of 38.5 LPA. Your offer letter is available in your Selection Portal.",
+    "type": "SELECTION",
+    "link": "/student/selection",
+    "isRead": false,
+    "createdAt": "2026-09-30T08:59:25.784Z",
+    "updatedAt": "2026-09-30T08:59:25.784Z"
+  },
+  {
+    "_id": "notif_002",
+    "recipientId": "stu_rahul_002",
+    "recipientRole": "STUDENT",
+    "title": "Interview Scheduled: Cisco Systems Technical Round II",
+    "message": "Your Technical Interview with Cisco Systems is scheduled for 12th October 2026 at 11:30 AM via Google Meet.",
+    "type": "INTERVIEW",
+    "link": "/student/interviews",
+    "isRead": false,
+    "createdAt": "2026-09-30T08:59:25.786Z",
+    "updatedAt": "2026-09-30T08:59:25.786Z"
+  },
+  {
+    "_id": "notif_003",
+    "recipientId": "ALL",
+    "recipientRole": "ALL",
+    "title": "New Campus Placement Drive: Microsoft Accelerate Program",
+    "message": "Microsoft Corporation has announced its campus drive for Software Engineer roles (43.5 LPA). Eligible students can review criteria and apply online.",
+    "type": "DRIVE",
+    "link": "/placements/drives/drive_msft_2026_02",
+    "isRead": false,
+    "createdAt": "2026-09-30T08:59:25.789Z",
+    "updatedAt": "2026-09-30T08:59:25.789Z"
+  }
+]
